@@ -1,0 +1,229 @@
+#prints all the lines without failure
+my mother monthly income : 15000
+my father monthly income : 35000
+my sister monthly income : 
+15000
+my monthly income : 60000
+
+
+#print the lines which match the given pattern
+my father monthly income : 35000
+
+
+#splitting lines into fields
+mymother
+myfather
+mysister
+15000
+mymonthly
+
+
+#use of NR in built in variables (displays line numbers)
+1 
+2 
+3 
+4 
+5 
+
+
+#use of NF built-in variables (display the last field)
+my 
+my 
+my 
+15000 
+my 
+
+
+#another use of NR built in varain=bles displays line from n to m)
+2 my father monthly income : 35000
+3 my sister monthly income : 
+4 15000
+
+
+# print the first item along with a row number separated with “-” from each line in file
+
+
+#to return the second item from file
+B
+4TGT
+6tsa
+assI-5
+
+
+#to find the length of the longest line present
+31
+
+
+#to count the lines in file
+4
+
+
+#printing the lines more than 10 characters
+A          B                C
+H33       4TGT              Q3
+UNIX      6tsa              hkc
+422154    assI-5            lab
+
+
+#to check for any string in any specific column
+H33       4TGT              Q3
+
+
+#BEGIN is used to execute the block of code before processing any input.
+cube of  1 is 1
+cube of  2 is 8
+cube of  3 is 27
+#prints all the lines without failure
+my mother monthly income : 15000
+my father monthly income : 35000
+my sister monthly income : 
+15000
+my monthly income : 60000
+
+
+#print the lines which match the given pattern
+my father monthly income : 35000
+
+
+#splitting lines into fields
+mymother
+myfather
+mysister
+15000
+mymonthly
+
+
+#use of NR in built in variables (displays line numbers)
+1 
+2 
+3 
+4 
+5 
+
+
+#use of NF built-in variables (display the last field)
+my 
+my 
+my 
+15000 
+my 
+
+
+#another use of NR built in varain=bles displays line from n to m)
+2 my father monthly income : 35000
+3 my sister monthly income : 
+4 15000
+
+
+# print the first item along with a row number separated with “-” from each line in file
+
+
+#to return the second item from file
+B
+4TGT
+6tsa
+assI-5
+
+
+#to find the length of the longest line present
+31
+
+
+#to count the lines in file
+4
+
+
+#printing the lines more than 10 characters
+A          B                C
+H33       4TGT              Q3
+UNIX      6tsa              hkc
+422154    assI-5            lab
+
+
+#to check for any string in any specific column
+H33       4TGT              Q3
+
+
+#BEGIN is used to execute the block of code before processing any input.
+cube of  1 is 1
+cube of  2 is 8
+cube of  3 is 27
+#prints all the lines without failure
+my mother monthly income : 15000
+my father monthly income : 35000
+my sister monthly income : 
+15000
+my monthly income : 60000
+
+
+#print the lines which match the given pattern
+my father monthly income : 35000
+
+
+#splitting lines into fields
+mymother
+myfather
+mysister
+15000
+mymonthly
+
+
+#use of NR in built in variables (displays line numbers)
+1 
+2 
+3 
+4 
+5 
+
+
+#use of NF built-in variables (display the last field)
+my 
+my 
+my 
+15000 
+my 
+
+
+#another use of NR built in varain=bles displays line from n to m)
+2 my father monthly income : 35000
+3 my sister monthly income : 
+4 15000
+
+
+# print the first item along with a row number separated with “-” from each line in file
+1- A
+2- H33
+3- UNIX
+4- 422154
+
+
+#to return the second item from file
+B
+4TGT
+6tsa
+assI-5
+
+
+#to find the length of the longest line present
+31
+
+
+#to count the lines in file
+4
+
+
+#printing the lines more than 10 characters
+A          B                C
+H33       4TGT              Q3
+UNIX      6tsa              hkc
+422154    assI-5            lab
+
+
+#to check for any string in any specific column
+H33       4TGT              Q3
+
+
+#BEGIN is used to execute the block of code before processing any input.
+cube of  1 is 1
+cube of  2 is 8
+cube of  3 is 27

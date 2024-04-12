@@ -1,0 +1,17 @@
+Creating an uncompressed tar Archive
+cpiooutput.txt
+cpio.sh
+file.tar
+one.cpio
+one.tar
+sedfile.sh
+sedfile.txt
+sedoutput.txt
+taroutput.txt
+tar.sh
+
+
+ gzip compression on the tar Archive, using option -z
+cpiooutput.txt
+sedfile.txt
+sedoutput.txt

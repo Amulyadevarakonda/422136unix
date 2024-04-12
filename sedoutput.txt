@@ -1,0 +1,75 @@
+#replaces the word unix with linux in the file line by line
+this is geetha
+studying btech 2nd year
+geetha pursuing 2nd year
+
+
+#Replacing the nth occurrence of a pattern in a line
+this is amulya
+studying btech 2nd year
+amulya pursuing 2nd year
+
+
+#Replacing all the occurrence of the pattern in a line 
+this is geetha
+studying btech 2nd year
+geetha pursuing 2nd year
+
+
+#Replacing string on a specific line number 
+this is amulya
+studying btech 2nd year
+geetha pursuing 2nd year
+
+
+#Replacing string on a specific line numbers range 
+this is amulya
+studying btech 2nd year
+amulya pursuing 4th year
+
+
+#Replacing string on a particular line to entire numbers range 
+this is amulya
+studying btech 2nd year
+amulya pursuing 2nd year
+
+
+#Duplicating the replaced line with /p flag
+this is vijaya
+this is vijaya
+studying btech 2nd year
+vijaya pursuing 2nd year
+vijaya pursuing 2nd year
+
+
+#printing only the replaced lines
+this is vijya
+vijya pursuing 2nd year
+
+
+#To Delete a particular line say 
+this is amulya
+studying btech 2nd year
+amulya pursuing 2nd year
+
+
+#To Delete a last line
+this is amulya
+studying btech 2nd year
+
+
+#To Delete line from range x to y
+this is amulya
+studying btech 2nd year
+
+
+#To Delete from nth to last line
+this is amulya
+studying btech 2nd year
+amulya pursuing 2nd year
+
+
+#To Delete pattern matching line
+this is amulya
+studying btech 2nd year
+amulya pursuing 2nd year
